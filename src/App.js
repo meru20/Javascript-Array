@@ -39,7 +39,7 @@ const App =()=> {
            <h1>Coding Challenge: Javascript Arrays 3.24.21 </h1>
          </div>
          </div>
-      {/* <Arrays /> */}
+      <Arrays />
       <ReverseArray />
       <FalsyValues/>
       <DuplicateArray/>
